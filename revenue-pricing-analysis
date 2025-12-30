@@ -1,1 +1,22 @@
+retail-sales-customer-insights/
+│
+├── data/
+│   ├── fact_sales.csv
+│   ├── dim_customer.csv
+│   ├── dim_product.csv
+│   ├── dim_store.csv
+│   └── dim_date.csv
+│
+├── notebooks/
+│   └── data_preparation.ipynb
+│
+├── dashboards/
+│   ├── dashboard_1_sales_overview.png
+│   ├── dashboard_2_trends.png
+│   ├── dashboard_3_store_region.png
+│   ├── dashboard_4_customer_demographics.png
+│   ├── dashboard_5_aov_clv.png
+│   └── dashboard_6_discount_analysis.png
+│
+└── README.md
 
