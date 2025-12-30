@@ -1,6 +1,4 @@
 # Rohin Ram – Business Data Analytics Portfolio
 
-This repository contains end-to-end analytics projects focused on
-revenue, pricing, sales performance, and operational efficiency.
-
-Tools: Python, SQL, Power BI, Excel
+End-to-end retail analytics project using MicroStrategy and Python to analyze sales and customer KPI's.
+Tools: Python, SQL, Microstrategy, Excel
