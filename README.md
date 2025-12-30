@@ -7,8 +7,8 @@ The objective is to demonstrate the ability to:
 2. Build actionable KPIs
 3. Design interactive dashboards
 4. Translate data into business insights
-**
-A. Dataset Overview**
+
+**A. Dataset Overview**
 
 The dataset represents a multi-store retail business with over 5,000 transactions, including the following tables:
 
