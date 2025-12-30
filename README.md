@@ -28,7 +28,7 @@ This project answers the following business questions:
 4. How do customer demographics influence sales?
 5. What is the Average Order Value (AOV) and Estimated Customer Lifetime Value (CLV)?
 
-****C. Data Modeling & Preparation
+**C. Data Modeling & Preparation
 
 Data Preparation (Python)
 
