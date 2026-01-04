@@ -54,13 +54,16 @@ Date
 ![Sales Overview](dashboards/Overview.png)
 
 ### 2. Sales Trends Over Time
-![Sales Trends](dashboards/Trend Analysis.png)
+![Sales Trends](dashboards/TrendAnalysis.png)
 
-### 3. Store & Region Performance
-![Store Region](dashboards/Regional performance.png)
+### 3. Sales vs Profit Analysis
+![Discount Impact](dashboards/SalesvsProfit.png)
 
-### 4. Customer Demographics Analysis
-![Customer Demographics](dashboards/Customer insights.png)
+### 4. Store & Region Performance
+![Store Region](dashboards/Regionalperformance.png)
 
-### 5. Average Order Value & Customer Lifetime Value
+### 5. Customer Demographics Analysis
+![Customer Demographics](dashboards/Customerinsights.png)
+
+### 6. Average Order Value & Customer Lifetime Value
 ![AOV CLV](dashboards/AOV&CLV.png)
