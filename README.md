@@ -1,4 +1,4 @@
-# Rohin Ram – Retail Sales & Customer Insights Dashboard
+# Retail Sales & Customer Insights Dashboard
 
 This project simulates a real-world retail analytics use case, focusing on sales performance, customer behavior and demographic impact.
 
